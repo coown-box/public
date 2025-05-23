@@ -4,14 +4,40 @@
 
 ---
 
-A decentralized application built on the Internet Computer (ICP)  
+## Corporate grade crypto solutions 
+### Shared crypto wallets for insitutions, companies & private groups
+*The Swiss Army Knife for team finances on blockchain*
 
-This repository provides an overview and introduction to the technological framework.  
+✓ Multi-approval payments
 
-Most repositories for the application are private as the source code is proprietary.  
+✓ Tokenized shares & voting
+
+✓ Built-in corporate governance
+
+✓ Regional KYC/KYB/UBO/AML compliance
+
+✓ White-label & enterprise-ready
+
+A decentralized application powered by Internet Computer Protocol (ICP)  
 
 ---
+## 📑 Scope
+This repository provides an overview of the technical framework.
 
+Other repositories of COOWN's organization remain private, as the source code of the application is proprietary.
+
+---
+## 🔐 Licensing
+
+• Free accounts without ledger - available for every natural person
+
+• Free accounts with a ledger - available for residents of selected jurisdictions
+
+• Annual enterprise licenses — available at coown.box
+
+• Institutional white-label licenses e.g. for UTOPIA — available on request
+
+---
 ## ▶️ Live Deployments  
 
 ### 🌐 Production  
@@ -21,7 +47,6 @@ Landing Page: [https://coown.box/](https://coown.box/)
 Frontend Canister: [https://kgo7b-3qaaa-aaaap-an2dq-cai.icp0.io/](https://kgo7b-3qaaa-aaaap-an2dq-cai.icp0.io/)  
 
 ---
-
 ## ⚙️ Architecture  
 Built on Internet Computer Protocol (ICP):  
 - Frontend: JavaScript  
@@ -33,17 +58,15 @@ Learn more: [internetcomputer.org](https://internetcomputer.org)
 🖥️ Frontend Canister - User interface  
 ⚙️ Backend Canister - Core logic (Motoko)  
 🔐 User/Group Canisters - Private data ledgers  
-📨 Integrated Services - Messengers, mail servers  
+📨 Integrated Services - Messengers, mail and domain name servers  
 
 ---
-
 ## 📋 Requirements  
 - Desktop or mobile device  
 - Free Internet Identity: [identity.internetcomputer.org](https://identity.internetcomputer.org)  
 - Verified email or messenger account  
 
 ---
-
 ## ⚠️ Limitations  
 Cryptocurrency services are regulated in most jurisdictions.  
 
@@ -55,7 +78,6 @@ Key compliance features:
 See [User and Privacy Policy](https://coown.box) for details.  
 
 ---
-
 ## 🚀 Get Started  
 Follow us on social media, check out our explanatory videos, and access COOWN at:  
 [coown.box](https://coown.box)  
