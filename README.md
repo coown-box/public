@@ -4,9 +4,10 @@
 
 ---
 
-## Corporate grade crypto solutions 
-### Shared crypto wallets for insitutions, companies & private groups
-*The Swiss Army Knife for team finances on blockchain*
+## Shared crypto wallets for insitutions, companies & private groups
+*Enterprise-grade blockchain for institutional money:* Shared wallets for businesses and units, role- and user-based spending limits with payment approvals, tokenized shares for voting, raising capital, and automated dividends — an admin-free solution built to boost security, management efficiency, and stakeholder empowerment.
+
+*The Swiss Army Knife for team finances on blockchain:*
 
 ✓ Multi-approval payments
 
