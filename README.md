@@ -55,11 +55,10 @@ Frontend Canister: [https://kgo7b-3qaaa-aaaap-an2dq-cai.icp0.io/](https://kgo7b-
 ---
 ## ⚙️ Architecture  
 ### Tech Stack 
-The decentralized application is primarely build on Internet Computer Protocol (ICP):  
-- Frontend: JavaScript  
-- Backend: Motoko  
+The decentralized application is primarely build on Internet Computer Protocol (ICP).
 Learn more: [internetcomputer.org](https://internetcomputer.org)  
-Integrated services cover domain handling, messenger systems, storage, chain key technology, and interfaces to exchanges.
+Primary programming languages: Frontend: JavaScript, Backend: Motoko.  
+Integrated services: Domain handling, messenger systems, media-storage, chain key technology, and interfaces to exchanges.
 
 ### Data Architecture Overview
 
