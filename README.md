@@ -61,7 +61,7 @@ Built on Internet Computer Protocol (ICP):
 Learn more: [internetcomputer.org](https://internetcomputer.org)  
 
 ### Core Components
-[img](Data_Architecture_Overview_coming_soon.png)
+![img](Data_Architecture_Overview_coming_soon.png)
 🖥️ Frontend Canister - User interface  
 ⚙️ Backend Canister - Core logic (Motoko)  
 🔐 User/Group Canisters - Private data ledgers  
