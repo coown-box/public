@@ -62,7 +62,7 @@ Integrated services: Domain handling, messenger systems, media-storage, chain ke
 
 ### Data Architecture Overview
 
-![img](Data_Architecture_Overview_coming_soon.png)
+![img](Data_Architecture_Overview_coming_soon.jpg)
 
 
 ---
