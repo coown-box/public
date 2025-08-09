@@ -8,6 +8,8 @@
 
 *Admin-free digital wallets with built-in corporate controls for institutions, businesses and private groups*
 
+See our [Pitch Deck](https://coown.notion.site/Pitch-Deck-5af3f45f2e3640a0874e60116f7de6aa) in the [Investor Data Room](https://coown.notion.site/Investor-Data-Room-240e4beacc2280c59bffeeb93f544720?pvs=74).
+
 **Key Stakeholder Controls:**  
 - **Shareholders:** Govern budgets, executive appointments and payment approvals  
 - **Managers:** Allocate funds, set spending limits and authorize transactions  
