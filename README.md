@@ -81,7 +81,7 @@ Primary programming languages: **JavaScript** (frontend), **Motoko** (ICP backen
 
 ### Data architecture overview
 
-![Data Architecture Overview](Data_Architecture_Overview.png)
+<img src="coown_data_architecture_v2.svg" alt="Data Architecture Overview" style="background-color:white;">
 
 The architecture is organized in four main layers:
 
